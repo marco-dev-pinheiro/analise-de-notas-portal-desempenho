@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora de Médias Escolares",
+  "description": "Uma plataforma para cálculo automático de médias aritméticas e acompanhamento de desempenho acadêmico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
