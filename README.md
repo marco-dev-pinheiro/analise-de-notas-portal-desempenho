@@ -1,6 +1,9 @@
 # 📊 Análise de Notas - Portal de Desempenho
 Um aplicativo web moderno e interativo desenvolvido em **React** para análise e visualização de notas de alunos por turma. O portal oferece estatísticas em tempo real, busca avançada e uma interface responsiva com animações fluidas.
 
+<img width="1905" height="1016" alt="image" src="https://github.com/user-attachments/assets/9d2f9365-8471-4140-9845-4e74c896ce95" />
+
+
 
 ## 🎯 Objetivo
 
